@@ -75,6 +75,6 @@ Each query will result in a ranked list of documents, sorted by their similarity
 ## Group Members
 
 - **Sara Alsanajleh**: 163418
-- **Ghada Abu Shaqra**: Student 164188
+- **Ghada Abu Shaqra**: 164188
 
 
